@@ -169,4 +169,15 @@ www.youtube.com###owner-sub-count
 
 ! 26-May-2024 https://www.startpage.com
 www.startpage.com##.css-sc18jh.settings
+www.startpage.com##.eu3pp1u0.css-1h47swe
 
+! 26-May-2024 https://unix.stackexchange.com
+unix.stackexchange.com###sidebar
+unix.stackexchange.com###left-sidebar
+unix.stackexchange.com###footer
+unix.stackexchange.com##.pr12.overflow-x-auto.ml-auto.h100
+! 26-May-2024 https://askubuntu.com
+askubuntu.com###left-sidebar
+askubuntu.com###sidebar
+askubuntu.com###footer
+askubuntu.com##.pr12.overflow-x-auto.ml-auto.h100
