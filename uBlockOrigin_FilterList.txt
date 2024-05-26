@@ -1,0 +1,174 @@
+www.youtube.com##.sbdd_a.gstl_50
+
+! 26-May-2024 https://www.youtube.com
+www.youtube.com###voice-search-button
+
+! 26-May-2024 https://www.google.com
+www.google.com##.M8OgIe
+www.google.com##.UWyTaf.a8pxAe.GRl5yb
+www.google.com###JTPWx
+www.google.com##div.cLjAic.TzHB6b:nth-of-type(3)
+www.google.com##div.cLjAic.TzHB6b:nth-of-type(12)
+www.google.com##.oIk2Cb
+www.google.com##.k5T88b.Jb0Zif.IVvPP.TQc1id
+www.google.com##.rLrQHf
+
+! 26-May-2024 https://www.youtube.com
+www.youtube.com###footer > .ytd-guide-renderer.style-scope
+
+! 26-May-2024 https://www.reddit.com
+www.reddit.com##pdp-right-rail
+www.reddit.com##.xs\:overflow-x-hidden.xs\:overflow-y-auto.xs\:max-h-\[calc\(100vh-var\(--shreddit-header-height\)-1px\)\].xs\:top-\[56px\].xs\:sticky.styled-scrollbars.block.xs\:min-w-\[316px\].xs\:w-\[316px\].w-full.right-sidebar
+
+! 2024-05-14 https://www.reddit.com
+www.reddit.com##.mx-auto.xs\:px-md.m\:max-w-\[calc\(100vw-272px\)\].m\:w-\[1120px\].w-full.order-2.flex-col.flex.box-border.m\:col-start-2.subgrid-container
+
+! 2024-05-16 https://www.instagram.com
+www.instagram.com##.x1nhvcw1.x1oa3qoh.x1qjc9v5.xqjyukv.xdt5ytf.x2lah0s.x1c4vz4f.xryxfnj.x1plvlek.x1uhb9sk.x1e56ztr.xqui205.xo71vjh.x5pf9jr.x13lgxp2.x168nmei.x78zum5.xjbqb8w.x9f619
+www.instagram.com##.xh8yej3.x1iyjqo2 > div > div > .x1qrby5j.x7ja8zs.x1t2pt76.x1lytzrv.xedcshv.xarpa2k.x3igimt.x12ejxvf.xaigb6o.x1beo9mf.xv2umb2.x1jfb8zj.x1h9r5lt.x1h91t0o.x4k7w5x > .x1n2onr6 > ._a6hd.x1a2a7pz.xggy1nq.x1hl2dhg.x16tdsg8.xkhd6sd.x18d9i69.x4uap5.xexx8yu.x1mh8g0r.xat24cr.x11i5rnm.xdj266r.xe8uvvx.xt0psk2.x1ypdohk.x9f619.xm0m39n.x1qhh985.xcfux6l.x972fbf.x17r0tee.x1sy0etr.xd10rxx.x1ejq31n.xjbqb8w.x1i10hfl > .x9jhf4c.x30kzoy.xgqcy7u.x1lq5wgf.x1wj20lx.x12ldp4w.x11hdxyr.xs3sg5q.x9k3k5o.x1dejxi8.xdoji71.xzauu7c.x1lhsz42.x10djquj.x172qv1o.xif99yt.x1dn74xm.x159b3zp.x80pfx3.x1ye3gou.xsag5q8.xn6708d.xz9dl7a.x12dmmrz.x7nr27j.x6pnmvc.xo237n4.xjpr12u.xr9ek0c.x3nfvp2.x9f619
+www.instagram.com##.xh8yej3.x1iyjqo2 > div > .x1qrby5j.x7ja8zs.x1t2pt76.x1lytzrv.xedcshv.xarpa2k.x3igimt.x12ejxvf.xaigb6o.x1beo9mf.xv2umb2.x1jfb8zj.x1h9r5lt.x1h91t0o.x4k7w5x > .x78zum5.x6s0dn4.x1n2onr6 > ._a6hd.x1a2a7pz.xggy1nq.x1hl2dhg.x16tdsg8.xkhd6sd.x18d9i69.x4uap5.xexx8yu.x1mh8g0r.xat24cr.x11i5rnm.xdj266r.xe8uvvx.xt0psk2.x1ypdohk.x9f619.xm0m39n.x1qhh985.xcfux6l.x972fbf.x17r0tee.x1sy0etr.xd10rxx.x1ejq31n.xjbqb8w.x1i10hfl
+www.instagram.com##.xh8yej3.x1iyjqo2 > div > .x1qrby5j.x7ja8zs.x1t2pt76.x1lytzrv.xedcshv.xarpa2k.x3igimt.x12ejxvf.xaigb6o.x1beo9mf.xv2umb2.x1jfb8zj.x1h9r5lt.x1h91t0o.x4k7w5x > .x1n2onr6 > ._a6hd.x1a2a7pz.xggy1nq.x1hl2dhg.x16tdsg8.xkhd6sd.x18d9i69.x4uap5.xexx8yu.x1mh8g0r.xat24cr.x11i5rnm.xdj266r.xe8uvvx.xt0psk2.x1ypdohk.x9f619.xm0m39n.x1qhh985.xcfux6l.x972fbf.x17r0tee.x1sy0etr.xd10rxx.x1ejq31n.xjbqb8w.x1i10hfl > .x9jhf4c.x30kzoy.xgqcy7u.x1lq5wgf.x1wj20lx.x12ldp4w.x11hdxyr.xs3sg5q.x9k3k5o.x1dejxi8.xdoji71.xzauu7c.x1lhsz42.x10djquj.x172qv1o.xif99yt.x1dn74xm.x159b3zp.x80pfx3.x1ye3gou.xsag5q8.xn6708d.xz9dl7a.x12dmmrz.x7nr27j.x6pnmvc.xo237n4.xjpr12u.xr9ek0c.x3nfvp2.x9f619
+www.instagram.com##.xzloghq.x1tu34mt.x1i0vuye.xcdnw81.x14atkfc.x87ps6o.xlyipyv.x2b8uid.x1n2onr6.x1pi30zi.x1swvt13.x17ydfre.xl56j7k.x10w6t97.xwhw2v2.x1f6kntn.x78zum5.x1ypdohk.x9bdzbf.x9f619.x17r0tee.x1sy0etr.xd10rxx.x1ejq31n.x9jhf4c.x30kzoy.xgqcy7u.x1lq5wgf.xjyslct.x6s0dn4.x1a2a7pz.x1lku1pv.x1q0g3np.x1t137rt.x1ja2u2z.xggy1nq.x1hl2dhg.x18d9i69.xexx8yu.xeuugli.x2lwn1j.x1mh8g0r.xat24cr.x11i5rnm.xdj266r.xe8uvvx.x2lah0s.xdl72j9.xm0m39n.x1qhh985.xcfux6l.x972fbf.x2hbi6w.xqeqjp1.xa49m3k.xjqpnuy.x1i10hfl
+www.instagram.com##.xyamay9.x1pi30zi.x1swvt13.x6s0dn4.x193iq5w.x2lah0s.xdt5ytf.x78zum5.x1ja2u2z.x1n2onr6.x9f619
+www.instagram.com##div.x1pi30zi.x1swvt13.x6s0dn4.x193iq5w.x2lah0s.xdt5ytf.x78zum5.x1ja2u2z.x1n2onr6.x9f619
+www.instagram.com##.xijc0j3.xxbr6pl.xbbxn1n.xsag5q8.x1qughib.x1q0g3np.x78zum5.x1qhh985.xh8yej3.x4lt0of.xat24cr.xr931m4.x9f619.x1q0q8m5.x1bs97v6.x6s0dn4
+www.instagram.com##.xbbxn1n.x1a8lsjc.xxbr6pl.xyinxu5.x1nhvcw1.x1q0g3np.x78zum5.x6s0dn4
+www.instagram.com##.x1useyqa.x1kjsxda.x14vqqas.x1lliihq.x13vifvy.x17qophe.x10l6tqk.xxz18i5 .x1qrby5j.x7ja8zs.x1t2pt76.x1lytzrv.xedcshv.xarpa2k.x3igimt.x12ejxvf.xaigb6o.x1beo9mf.xv2umb2.x1jfb8zj.x1h9r5lt.x1h91t0o.x4k7w5x > .x78zum5.x6s0dn4.x1n2onr6 > ._a6hd.x1a2a7pz.xggy1nq.x1hl2dhg.x16tdsg8.xkhd6sd.x18d9i69.x4uap5.xexx8yu.x1mh8g0r.xat24cr.x11i5rnm.xdj266r.xe8uvvx.xt0psk2.x1ypdohk.x9f619.xm0m39n.x1qhh985.xcfux6l.x972fbf.x17r0tee.x1sy0etr.xd10rxx.x1ejq31n.xjbqb8w.x1i10hfl > .x159b3zp.x80pfx3.x1ye3gou.xsag5q8.xn6708d.xz9dl7a.x12dmmrz.x7nr27j.x6pnmvc.xo237n4.xjpr12u.xr9ek0c.x9jhf4c.x30kzoy.xgqcy7u.x1lq5wgf.x3nfvp2.x9f619
+www.instagram.com##.x1useyqa.x1kjsxda.x14vqqas.x1lliihq.x13vifvy.x17qophe.x10l6tqk.xxz18i5
+www.instagram.com##.xh8yej3.x1n2onr6.x1to3lk4.x2lah0s
+www.instagram.com##.xhuyl8g.xl5mz7h > .x1qrby5j.x7ja8zs.x1t2pt76.x1lytzrv.xedcshv.xarpa2k.x3igimt.x12ejxvf.xaigb6o.x1beo9mf.xv2umb2.x1jfb8zj.x1h9r5lt.x1h91t0o.x4k7w5x > .x78zum5.x6s0dn4.x1n2onr6 > ._a6hd.x1a2a7pz.xggy1nq.x1hl2dhg.x16tdsg8.xkhd6sd.x18d9i69.x4uap5.xexx8yu.x1mh8g0r.xat24cr.x11i5rnm.xdj266r.xe8uvvx.xt0psk2.x1ypdohk.x9f619.xm0m39n.x1qhh985.xcfux6l.x972fbf.x17r0tee.x1sy0etr.xd10rxx.x1ejq31n.xjbqb8w.x1i10hfl > .x159b3zp.x80pfx3.x1ye3gou.xsag5q8.xn6708d.xz9dl7a.x12dmmrz.x7nr27j.x6pnmvc.xo237n4.xjpr12u.xr9ek0c.x9jhf4c.x30kzoy.xgqcy7u.x1lq5wgf.x3nfvp2.x9f619
+
+! 2024-05-18 https://www.instagram.com
+www.instagram.com##.x13vxnyz.x18z9r2k.x1xdureb.x1uhmqq1.xc3tme8
+www.instagram.com##.xcdnw81.xurb0ha.xwib8y2.x1sxyh0.x1y1aw1k.xl56j7k.x78zum5.x1ypdohk.x17r0tee.x1sy0etr.xd10rxx.x1ejq31n.xjbqb8w.x6s0dn4.x1a2a7pz.xggy1nq.x1hl2dhg.x16tdsg8.x1mh8g0r.xat24cr.x11i5rnm.xdj266r.xe8uvvx.x9f619.xm0m39n.x1qhh985.xcfux6l.x972fbf.x1i10hfl
+www.instagram.com##.xhuyl8g.xl5mz7h > .x1qrby5j.x7ja8zs.x1t2pt76.x1lytzrv.xedcshv.xarpa2k.x3igimt.x12ejxvf.xaigb6o.x1beo9mf.xv2umb2.x1jfb8zj.x1h9r5lt.x1h91t0o.x4k7w5x > .x1n2onr6 > ._a6hd.x1a2a7pz.xggy1nq.x1hl2dhg.x16tdsg8.xkhd6sd.x18d9i69.x4uap5.xexx8yu.x1mh8g0r.xat24cr.x11i5rnm.xdj266r.xe8uvvx.xt0psk2.x1ypdohk.x9f619.xm0m39n.x1qhh985.xcfux6l.x972fbf.x17r0tee.x1sy0etr.xd10rxx.x1ejq31n.xjbqb8w.x1i10hfl > .x9jhf4c.x30kzoy.xgqcy7u.x1lq5wgf.x1wj20lx.x12ldp4w.x11hdxyr.xs3sg5q.x9k3k5o.x1dejxi8.xdoji71.xzauu7c.x1lhsz42.x10djquj.x172qv1o.xif99yt.x1dn74xm.x159b3zp.x80pfx3.x1ye3gou.xsag5q8.xn6708d.xz9dl7a.x12dmmrz.x7nr27j.x6pnmvc.xo237n4.xjpr12u.xr9ek0c.x3nfvp2.x9f619
+
+! 2024-05-18 https://www.amazon.in
+||m.media-amazon.com/images/I/715cwp4U+5L._SX3000_.jpg$image
+www.amazon.in###a-page > .a-spacing-none.a-section
+www.amazon.in###a-page > .copilot-secure-display
+www.amazon.in##.nav-sprite-v1.navLeftFooter
+www.amazon.in###nav-xshop-container
+www.amazon.in###navbar > .nav-sprite
+www.amazon.in##.nav-progressive-attribute.nav-prime-1
+www.amazon.in##.s-suggestion-container
+www.amazon.in###nav-cover
+www.amazon.in###desktopBookshelfContainer
+www.amazon.in###nav-progressive-subnav
+www.amazon.in##.sc-badge-basis-price
+www.amazon.in##.sc-deals-badge-label
+
+! 2024-05-18 https://chatgpt.com
+chatgpt.com##.juice\:font-normal.juice\:gap-2\.5.hover\:bg-token-sidebar-surface-secondary.text-token-text-primary.font-medium.px-2.rounded-lg.gap-2.items-center.w-full.h-10.flex
+
+! 2024-05-18 https://www.instagram.com
+www.instagram.com##._a6hd._ac_u._aa--._ap3g._aa-z.x1a2a7pz.xggy1nq.x1hl2dhg.x16tdsg8.xkhd6sd.x18d9i69.x4uap5.xexx8yu.x1mh8g0r.xat24cr.x11i5rnm.xdj266r.xe8uvvx.xt0psk2.x1ypdohk.x9f619.xm0m39n.x1qhh985.xcfux6l.x972fbf.x17r0tee.x1sy0etr.xd10rxx.x1ejq31n.xjbqb8w.x1i10hfl
+www.instagram.com##.xsz8vos.xt0psk2.xm0m39n.x1qhh985.xcfux6l.x972fbf.x9jhf4c.x30kzoy.xgqcy7u.x1lq5wgf.x1gjpkn9.xcdnw81.xurb0ha.xwib8y2.x1sxyh0.x1y1aw1k.xl56j7k.x1ypdohk.x17r0tee.x1sy0etr.xd10rxx.x1ejq31n.x6s0dn4.x1a2a7pz.xggy1nq.x1hl2dhg.x16tdsg8.x1mh8g0r.xat24cr.x11i5rnm.xdj266r.xe8uvvx.x9f619.x1i10hfl
+
+! 2024-05-19 https://www.instagram.com
+
+! 2024-05-19 https://www.instagram.com
+www.instagram.com##._ajdu._aj3f._aac6._aac5._aac4
+www.instagram.com##._a9zp._aarg._aarf
+www.instagram.com##._a6hd._a9zg.x1a2a7pz.xggy1nq.x1hl2dhg.x16tdsg8.xkhd6sd.x18d9i69.x4uap5.xexx8yu.x1mh8g0r.xat24cr.x11i5rnm.xdj266r.xe8uvvx.xt0psk2.x1ypdohk.x9f619.xm0m39n.x1qhh985.xcfux6l.x972fbf.x17r0tee.x1sy0etr.xd10rxx.x1ejq31n.xjbqb8w.x1i10hfl
+www.instagram.com##.x1swvt13.x1pi30zi.x182iqb8.x12nagc
+www.instagram.com##.x1swvt13.x1pi30zi.xo1ph6p.x1mh8g0r.xat24cr.x11i5rnm.xdj266r.x178xt8z.x13fuv20.x1xp8e9x.x1yrsyyn.xwib8y2.x1q0g3np.x78zum5
+www.instagram.com##._a9-7._a9-6._a9-5
+www.instagram.com##.x1682tcd.x12meozh.xcrlgei.xc3tme8
+www.instagram.com##div.x78zum5.x6s0dn4:nth-of-type(3)
+www.instagram.com##.x18r464c.xuqjycs.x15wddec.x11njtxf.x1n2onr6.xkhd6sd.x18d9i69.x4uap5.xexx8yu.x1mh8g0r.xat24cr.x11i5rnm.xdj266r.x2lah0s.xdt5ytf.x78zum5.x9f619.xm0m39n.x1qhh985.xcfux6l.x972fbf.x7a106z > ._a6hd.x1a2a7pz.xggy1nq.x1hl2dhg.x16tdsg8.xkhd6sd.x18d9i69.x4uap5.xexx8yu.x1mh8g0r.xat24cr.x11i5rnm.xdj266r.xe8uvvx.xt0psk2.x1ypdohk.x9f619.xm0m39n.x1qhh985.xcfux6l.x972fbf.x17r0tee.x1sy0etr.xd10rxx.x1ejq31n.xjbqb8w.x1i10hfl
+www.instagram.com##.x58vhm7.xkvl2z1.xhwgc15.x13ijfrp.x164vai7.x19sv2k2.x5ib6vp.x18d9i69.xc73u3c.x6tf39o.x1fawyso.x1gryazu.x4n8cb0.xkrivgy.xdj266r.x1iyjqo2 > div:nth-of-type(3)
+www.instagram.com##.xvbhtw8.x1swvt13.x1pi30zi.x11njtxf.x1n2onr6.x18d9i69.xexx8yu.x1h3rv7z.x1mh8g0r.xat24cr.x11i5rnm.xdj266r.xk390pu.x2lah0s.xdt5ytf.x78zum5.x9f619.x1qjc9v5
+www.instagram.com##div:nth-of-type(6)
+www.instagram.com##.x18hxmgj.x8viiok.x1wdrske.x10wh9bi.x1roi4f4.xo1l8bm.x1fhwpqd.x1i0vuye.xt0psk2.x1vvkbs.x13faqbe.x1fj9vlw.xeuugli.x193iq5w
+www.instagram.com##.xlrpkbc.x10wlt62.x6ikm8r.xieb3on.x1wo17tc.x1agbcgv.x1xdureb
+www.instagram.com##._a9zp._aarf
+www.instagram.com##._aar2
+www.instagram.com##._aalg
+www.instagram.com##.x1nhvcw1.x1oa3qoh.x6s0dn4.xqjyukv.xdt5ytf.x2lah0s.x1c4vz4f.xryxfnj.x1plvlek.x1uhb9sk.xo71vjh.x5pf9jr.x13lgxp2.x168nmei.x78zum5.xjbqb8w.x9f619 > .x1nhvcw1.x1oa3qoh.x1qjc9v5.xqjyukv.xdt5ytf.x2lah0s.x1c4vz4f.xryxfnj.x1plvlek.x1uhb9sk.xo71vjh.x5pf9jr.x13lgxp2.x168nmei.x78zum5.xjbqb8w.x9f619 > div > div > div
+www.instagram.com##.x1gslohp.x12nagc.x1o61qjw.xrvj5dj.x6s0dn4
+www.instagram.com##.x6bx242.x3hkoc4.x13vifvy.x1dr59a3
+www.instagram.com##.xn6708d.x2lah0s.x78zum5
+www.instagram.com##.x16zxmhm.xqmgo2j.xl56j7k.x1agbcgv.x1cq0mwf.xghq6j0.xcrlgei.x78zum5.x6s0dn4
+www.instagram.com##.x1p5oq8j.x1gan7if
+www.instagram.com##.xoo1adm.x1e9wozp.xmoo3j9.x19g9edo.xwib8y2.x1y1aw1k.xxbr6pl.xbbxn1n.x1mh8g0r.xat24cr.x11i5rnm.xdj266r.x1lliihq.xo71vjh.x5pf9jr.x13lgxp2.x168nmei.x1a2a7pz.x1lku1pv.x87ps6o.x1q0g3np.x1t137rt.x1ja2u2z.xggy1nq.x1hl2dhg.x16tdsg8.x1n2onr6.xeuugli.x2lwn1j.xe8uvvx.x2lah0s.xdl72j9.x1ypdohk.x9f619.xm0m39n.x1qhh985.xcfux6l.x972fbf.x26u7qi.x1q0q8m5.xu3j5b3.x13fuv20.x2hbi6w.xqeqjp1.xa49m3k.xjqpnuy.x1qjc9v5.x1i10hfl > .xxsgkw5.xeuugli.xl56j7k.x1iyjqo2.xdt5ytf.x78zum5.x1qjc9v5.x1ja2u2z.x1n2onr6.x9f619 > .x1q0g3np.xozqiw3.x6s0dn4.x1qughib.x2lah0s.x78zum5.x1ja2u2z.x1n2onr6.x9f619 > div.x78zum5.xeuugli.x193iq5w.x2lah0s.xdt5ytf.x1ja2u2z.x1n2onr6.x9f619
+www.instagram.com##.xwib8y2.x1y1aw1k.xxbr6pl.xbbxn1n.x1l895ks.x18wri0h.xg6hnt2.x1mh8g0r.xat24cr.x11i5rnm.xdj266r.x1lliihq.xo71vjh.x5pf9jr.x13lgxp2.x168nmei.x1a2a7pz.x1lku1pv.x87ps6o.x1q0g3np.x1t137rt.x1ja2u2z.xggy1nq.x1hl2dhg.x16tdsg8.x1n2onr6.xeuugli.x2lwn1j.xe8uvvx.x2lah0s.xdl72j9.x1ypdohk.x9f619.xm0m39n.x1qhh985.xcfux6l.x972fbf.x26u7qi.x1q0q8m5.xu3j5b3.x13fuv20.x2hbi6w.xqeqjp1.xa49m3k.xjqpnuy.xjbqb8w.x1qjc9v5.x1i10hfl > .xxsgkw5.xeuugli.xl56j7k.x1iyjqo2.xdt5ytf.x78zum5.x1qjc9v5.x1ja2u2z.x1n2onr6.x9f619 > .x1q0g3np.xozqiw3.x6s0dn4.x1qughib.x2lah0s.x78zum5.x1ja2u2z.x1n2onr6.x9f619 > div.x78zum5.xeuugli.x193iq5w.x2lah0s.xdt5ytf.x1ja2u2z.x1n2onr6.x9f619
+www.instagram.com##.x1nhvcw1.x1oa3qoh.x6s0dn4.xqjyukv.x1q0g3np.xeuugli.x2lwn1j.x1iyjqo2.xryxfnj.x1plvlek.x1n2onr6.xo71vjh.x5pf9jr.x13lgxp2.x168nmei.x78zum5.xjbqb8w.x9f619
+
+! 2024-05-19 https://www.justwatch.com
+www.justwatch.com##.discovery-recs__bucket-module--with-position.discovery-recs__bucket-module
+www.justwatch.com##.recommended-title-lists
+www.justwatch.com###footer-container
+www.justwatch.com##.page__onboarding__landing > div
+www.justwatch.com##a.navbar__button__link
+www.justwatch.com##.search-suggester__results
+
+! 2024-05-19 https://tv.apple.com
+tv.apple.com###uts-col-ContentRelated-umc-cmc-3thpf98o5diknnctdycef69fu
+tv.apple.com##.menu-closing.nav-header
+tv.apple.com##.typ-footnote.global-footer
+tv.apple.com##.product-header__content__details > .line-clamp-wrapper
+tv.apple.com##.secondary-text.badge--rotten-tomatoes--CertifiedFresh.badge--rotten-tomatoes.badge
+
+! 2024-05-19 https://www.instagram.com
+www.instagram.com##._ac2d
+www.instagram.com##.x2b8uid.xdt5ytf.x78zum5.x6s0dn4 > .x1l90r2v.xyamay9
+www.instagram.com##.xh8yej3.x1pi30zi.x1swvt13.x4lt0of.xat24cr.xr931m4.x1q0g3np.x78zum5.x9f619.xso031l.x1q0q8m5.x1bs97v6.x6s0dn4
+www.instagram.com##a._a6hd._ap3g._aa-z.x1a2a7pz.xggy1nq.x1hl2dhg.x16tdsg8.xkhd6sd.x18d9i69.x4uap5.xexx8yu.x1mh8g0r.xat24cr.x11i5rnm.xdj266r.xe8uvvx.xt0psk2.x1ypdohk.x9f619.xm0m39n.x1qhh985.xcfux6l.x972fbf.x17r0tee.x1sy0etr.xd10rxx.x1ejq31n.xjbqb8w.x1i10hfl
+
+! 2024-05-19 https://www.google.com
+www.google.com##.Ne6nSd.n1xJcf.o3j99
+www.google.com##.c93Gbe.o3j99
+www.google.com##.qarstb.o3j99
+www.google.com##.SuUcIb
+
+! 2024-05-19 https://www.instagram.com
+www.instagram.com##.x1nhvcw1.x1oa3qoh.x1qjc9v5.xqjyukv.xdt5ytf.x2lah0s.x1c4vz4f.xryxfnj.x1plvlek.x1n2onr6.xo71vjh.x5pf9jr.x13lgxp2.x168nmei.xy80clv.xso031l.xm81vs4.x178xt8z.x26u7qi.x1q0q8m5.xu3j5b3.x13fuv20.xmo9t06.x1bs97v6.xopu45v.x5ur3kl.x78zum5.xvbhtw8.x9f619
+www.instagram.com##.xg6iff7.x1iyjqo2.xdt5ytf.x78zum5 > div
+
+! 2024-05-20 https://www.instagram.com
+www.instagram.com##.xh8yej3.xaw8158.x78zum5 > div > .x1qrby5j.x7ja8zs.x1t2pt76.x1lytzrv.xedcshv.xarpa2k.x3igimt.x12ejxvf.xaigb6o.x1beo9mf.xv2umb2.x1jfb8zj.x1h9r5lt.x1h91t0o.x4k7w5x
+www.instagram.com##.xh8yej3.x1n2onr6.xaw8158.x1q0g3np.x78zum5.x9f619.x178xt8z.x13fuv20.x1yvgwvq.xaeubzz.x1o5hw5a > .xh8yej3.xaw8158.x78zum5 > div:nth-of-type(1)
+www.instagram.com##.xh8yej3.x1n2onr6.x1swvt13.x18d9i69.x1pi30zi.xexx8yu.x1q2y9iw.xdt5ytf.x78zum5.x9f619 > .x1e56ztr
+www.instagram.com##.x1yrsyyn.xwib8y2.x1gslohp.x1q0g3np.x78zum5
+www.instagram.com##.x1xmf6yo.xmnaoh6 > div
+www.instagram.com##._ab1y > .xdt5ytf.x78zum5
+www.instagram.com##div._ab21:nth-of-type(2)
+www.instagram.com##div.x1nhvcw1.x1oa3qoh.x1qjc9v5.xqjyukv.xdt5ytf.x2lah0s.x1c4vz4f.xryxfnj.x1plvlek.x1n2onr6.x1m39q7l.x540dpk.x1e56ztr.x1xmf6yo.xo71vjh.x5pf9jr.x13lgxp2.x168nmei.x78zum5.xjbqb8w.x9f619:nth-of-type(5)
+www.instagram.com##._ab38 > .x1q0g3np.x78zum5
+www.instagram.com##.xkxfa8k.xcd7kps.x1gja9t.xod5an3.xuyhj88.x1vk3w4.xx54hvc.x322q5f.xm2v1qs.xamitd3
+
+! 2024-05-20 https://www.amazon.com
+www.amazon.com###a-page > .a-spacing-none.a-section
+
+! 2024-05-20 https://www.amazon.in
+www.amazon.in###dramResponse
+www.amazon.in##.a-col-right.multi_sideslots.a-fixed-right-grid-col
+www.amazon.in##.dca-button.a-button-primary.a-button
+
+! 2024-05-22 https://www.instagram.com
+www.instagram.com##._aaqq._aarg._aarf
+www.instagram.com##.xh8yej3.x1nhvcw1.x1q0g3np.x78zum5.x6s0dn4 > .xq8finb
+www.instagram.com##.x11njtxf.xggy1nq.x1n2onr6.xkhd6sd.x18d9i69.x4uap5.xexx8yu.x1mh8g0r.xat24cr.x11i5rnm.xdj266r.xk390pu.x2lah0s.xdt5ytf.x78zum5.x9f619.xm0m39n.x1qhh985.xcfux6l.x972fbf.x1qjc9v5 > div > .x1i10hfl
+www.instagram.com##.x1nhvcw1.x1oa3qoh.x6s0dn4.xqjyukv.xdt5ytf.x2lah0s.x1c4vz4f.xryxfnj.x1plvlek.x1uhb9sk.xo71vjh.x5pf9jr.x13lgxp2.x168nmei.x78zum5.xjbqb8w.x9f619
+
+! 2024-05-22 https://www.amazon.in
+www.amazon.in##.a-text-normal.ebooks-price-savings.a-color-price.a-size-mini
+www.amazon.in##.print-list-price.celwidget
+
+! 26-May-2024 https://www.youtube.com
+www.youtube.com##.ytd-watch-metadata.style-scope > .ytd-subscribe-button-renderer.style-scope
+
+! 26-May-2024 https://www.startpage.com
+www.startpage.com##.css-vdfe58.home-hero-tagline
+www.startpage.com##.css-kshmjh
+www.startpage.com##.css-7btat1.footer-above-the-fold
+
+! 26-May-2024 https://www.youtube.com
+www.youtube.com###owner-sub-count
+www.youtube.com##.yt-spec-button-shape-next__button-text-content
+www.youtube.com##span.ytd-video-meta-block.style-scope.inline-metadata-item:nth-of-type(1)
+
+! 26-May-2024 https://www.startpage.com
+www.startpage.com##.css-sc18jh.settings
+
