@@ -166,7 +166,6 @@ www.startpage.com##.css-7btat1.footer-above-the-fold
 
 ! 26-May-2024 https://www.youtube.com
 www.youtube.com###owner-sub-count
-www.youtube.com##.yt-spec-button-shape-next__button-text-content
 www.youtube.com##span.ytd-video-meta-block.style-scope.inline-metadata-item:nth-of-type(1)
 
 ! 26-May-2024 https://www.startpage.com
