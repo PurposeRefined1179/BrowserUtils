@@ -185,3 +185,12 @@ askubuntu.com##.pr12.overflow-x-auto.ml-auto.h100
 ! 30-May-2024 https://chatgpt.com
 chatgpt.com##.juice\:font-normal.juice\:gap-2\.5.hover\:bg-token-sidebar-surface-secondary.text-token-text-primary.font-semibold.px-2.rounded-lg.gap-2.items-center.w-full.h-10.flex
 ! Removes "Explore GPTs" tab
+
+! 30-May-2024 https://web.whatsapp.com
+web.whatsapp.com##.x1a0jr7w.xu3j5b3.xm81vs4.x1acz5yr.xn6708d.x1ye3gou.x5yr21d.xbyj736.xl56j7k.x6s0dn4.x78zum5.x9f619.x1n2onr6.xa1v5g2
+! Removes left side bar (Status, Communities, Account Settings, etc.)
+web.whatsapp.com##.xzwifym.xyj1x25.x13fuv20.x178xt8z.x889kno.x1d52u69.x1fqp7bg.xktsk01.xcxhlts.xl56j7k.x6s0dn4.x78zum5.x9f619
+! Removes "end-to-end encrypted message" at the bottom of chats
+web.whatsapp.com##._ak73._ak72 > ._ak8n > ._ak8h > div
+web.whatsapp.com##.x1fgtraw.xgd8bvy.x1d21pym.x10l6tqk.xww2gxu.x18nykt9.xudhj91.x14yjl9h
+! Removes profile photos
