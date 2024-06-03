@@ -21,7 +21,7 @@ www.reddit.com##pdp-right-rail
 www.reddit.com##.xs\:overflow-x-hidden.xs\:overflow-y-auto.xs\:max-h-\[calc\(100vh-var\(--shreddit-header-height\)-1px\)\].xs\:top-\[56px\].xs\:sticky.styled-scrollbars.block.xs\:min-w-\[316px\].xs\:w-\[316px\].w-full.right-sidebar
 
 ! 2024-05-14 https://www.reddit.com
-www.reddit.com##.mx-auto.xs\:px-md.m\:max-w-\[calc\(100vw-272px\)\].m\:w-\[1120px\].w-full.order-2.flex-col.flex.box-border.m\:col-start-2.subgrid-container
+! www.reddit.com##.mx-auto.xs\:px-md.m\:max-w-\[calc\(100vw-272px\)\].m\:w-\[1120px\].w-full.order-2.flex-col.flex.box-border.m\:col-start-2.subgrid-container
 
 ! 2024-05-16 https://www.instagram.com
 www.instagram.com##.x1nhvcw1.x1oa3qoh.x1qjc9v5.xqjyukv.xdt5ytf.x2lah0s.x1c4vz4f.xryxfnj.x1plvlek.x1uhb9sk.x1e56ztr.xqui205.xo71vjh.x5pf9jr.x13lgxp2.x168nmei.x78zum5.xjbqb8w.x9f619
@@ -194,3 +194,22 @@ web.whatsapp.com##.xzwifym.xyj1x25.x13fuv20.x178xt8z.x889kno.x1d52u69.x1fqp7bg.x
 web.whatsapp.com##._ak73._ak72 > ._ak8n > ._ak8h > div
 web.whatsapp.com##.x1fgtraw.xgd8bvy.x1d21pym.x10l6tqk.xww2gxu.x18nykt9.xudhj91.x14yjl9h
 ! Removes profile photos
+
+! Jun 1, 2024 https://www.reddit.com
+www.reddit.com###credential_picker_container
+! Removes "login by using your Google Account" card. 
+
+! Jun 3, 2024 https://www.instagram.com
+www.instagram.com##.x1n2onr6.x10wlt62.x6ikm8r.x1iyjqo2.xdt5ytf.x78zum5 > .x10wlt62.x6ikm8r.xs83m0k.x1iyjqo2.xdt5ytf.x78zum5.x1ja2u2z.x1n2onr6.xeuugli.x2lwn1j.xdl72j9.x9f619.x1qjc9v5 > .x10wlt62.x6ikm8r.x1iyjqo2.xdt5ytf.x78zum5 > .x1xzczws.x1n2onr6.x10wlt62.x6ikm8r.x1iyjqo2.xdt5ytf.x78zum5 > .x16o0dkt.xh8yej3.x1n2onr6.x1rife3k.x6ikm8r.x1xzczws.xs83m0k.x1iyjqo2.xdt5ytf.x78zum5 > div:nth-of-type(1)
+! Removes "Notes" in Messages tab.
+
+! Jun 3, 2024 https://www.freecodecamp.org
+www.freecodecamp.org##.annual-donation-alert.border-blue-100.bg-blue-50.text-blue-700.break-words.border-1.border-solid.border.mb-6.p-4
+www.freecodecamp.org##.site-header
+! Removes site header (I don't use that currently) and donation card.
+
+! Jun 3, 2024 https://github.com
+github.com##.js-notice.BorderGrid-row
+! Hides suggested workflows.
+
+
