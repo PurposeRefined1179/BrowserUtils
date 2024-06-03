@@ -1,17 +1,18 @@
+! ! Jun 3, 2024 https://myaccount.google.com
+myaccount.google.com##.gb_8c
+myaccount.google.com##.gb_he.gb_je
+myaccount.google.com###ZCHFDb
+! Removes 1) apps button on the nav-bar; 2) help button on the nav-bar and 3) footer
+
+www.google.com###.gb_8c
+! Removes AI labs, apps and other similar buttons from nav-bar 
 www.youtube.com##.sbdd_a.gstl_50
 
 ! 26-May-2024 https://www.youtube.com
 www.youtube.com###voice-search-button
 
 ! 26-May-2024 https://www.google.com
-www.google.com##.M8OgIe
-www.google.com##.UWyTaf.a8pxAe.GRl5yb
-www.google.com###JTPWx
-www.google.com##div.cLjAic.TzHB6b:nth-of-type(3)
-www.google.com##div.cLjAic.TzHB6b:nth-of-type(12)
-www.google.com##.oIk2Cb
-www.google.com##.k5T88b.Jb0Zif.IVvPP.TQc1id
-www.google.com##.rLrQHf
+
 
 ! 26-May-2024 https://www.youtube.com
 www.youtube.com###footer > .ytd-guide-renderer.style-scope
