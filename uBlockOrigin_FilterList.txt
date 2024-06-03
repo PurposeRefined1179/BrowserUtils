@@ -6,7 +6,7 @@ myaccount.google.com##.gb_he.gb_je
 myaccount.google.com###ZCHFDb
 ! Removes 1) apps button on the nav-bar; 2) help button on the nav-bar and 3) footer
 
-www.google.com###.gb_8c
+www.google.com##.gb_8c
 ! Removes AI labs, apps and other similar buttons from nav-bar 
 www.youtube.com##.sbdd_a.gstl_50
 
