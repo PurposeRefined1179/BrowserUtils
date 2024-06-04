@@ -1,3 +1,7 @@
+! 05-Jun-2024 https://mail.google.com
+##.KE6zIb.Zmxtcf
+! removes Gemini button
+
 ! 30-May-2024 https://www.youtube.com
 www.youtube.com##span.bold.yt-formatted-string.style-scope:nth-of-type(1)
 www.youtube.com###info > span.bold.yt-formatted-string.style-scope:nth-of-type(2)
