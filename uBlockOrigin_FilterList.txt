@@ -1,3 +1,12 @@
+! Jun 15, 2024 https://chatgpt.com (ChatGPT free version, not logged-in)
+chatgpt.com##.bg-token-sidebar-surface-primary.overflow-x-hidden.flex-shrink-0
+chatgpt.com##body > div:nth-of-type(3)
+chatgpt.com##.z-20.right-0.left-0.bottom-full.absolute
+chatgpt.com##.z-40.top-1\/2.left-0.fixed
+chatgpt.com##.juice\:lg\:end-3.juice\:lg\:bottom-3.md\:flex.juice\:end-2.juice\:bottom-2.gap-1.hidden.z-10.end-3.bottom-3.fixed.group
+chatgpt.com##.juice\:gap-0.overflow-hidden.gap-2.items-center.flex
+
+
 ! 05-Jun-2024 https://mail.google.com
 google.com##.KE6zIb.Zmxtcf
 ! removes Gemini button
