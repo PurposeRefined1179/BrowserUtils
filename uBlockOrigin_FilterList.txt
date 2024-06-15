@@ -1,5 +1,5 @@
 ! Jun 15, 2024
-||accounts.google.com/gsi/*$xhr,script,3p ! Removes Google login dialogs on various pages
+stackexchange.com||accounts.google.com/gsi/*$xhr,script,3p ! Removes Google login dialogs on various pages
 google.*##[id^="eob_"] ! Removes "People also search for"
 !Credits: https://www.reddit.com/r/uBlockOrigin/wiki/solutions/
 
