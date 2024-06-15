@@ -262,13 +262,13 @@ www.startpage.com##.eu3pp1u0.css-1h47swe
 www.startpage.com##.css-162gbbt.feedback-serp-container
 www.startpage.com##.css-1dfoan3.top-nav-container
 
-! 26-May-2024 https://unix.stackexchange.com
-unix.stackexchange.com###sidebar
-unix.stackexchange.com###left-sidebar
-unix.stackexchange.com###footer
-unix.stackexchange.com##.pr12.overflow-x-auto.ml-auto.h100
+! Remove sidebars, footers, login and sign-up buttons from StackExchange sites:
+stackexchange.com###sidebar
+stackexchange.com###left-sidebar
+stackexchange.com###footer
+stackexchange.com##.pr12.overflow-x-auto.ml-auto.h100
 
-! 26-May-2024 https://askubuntu.com
+! Remove sidebars, footers, login and sign-up buttons from AskUbuntu:
 askubuntu.com###left-sidebar
 askubuntu.com###sidebar
 askubuntu.com###footer
