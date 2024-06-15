@@ -1,17 +1,30 @@
 ! Jun 15, 2024
-stackexchange.com||accounts.google.com/gsi/*$xhr,script,3p ! Removes Google login dialogs on various pages
-google.*##[id^="eob_"] ! Removes "People also search for"
+||accounts.google.com/gsi/*$xhr,script,3p 
+! Removes Google login dialogs on various pages
+
+google.*##[id^="eob_"] 
+! Removes "People also search for"
+
 !Credits: https://www.reddit.com/r/uBlockOrigin/wiki/solutions/
 
 
 www.reddit.com###left-sidebar-container
 www.reddit.com##.ml-md.mt-sm.mb-2xs.text-neutral-content-weak.flex.items-center
-www.reddit.com###reddit-trending-searches-partial-container !Removes "trending" from Reddit search.
-www.reddit.com##recent-posts !Removes "Recent posts" from right sidebar on the Reddit home page
-www.reddit.com##shreddit-subreddit-header-buttons !Removes "Join" and other options on a subreddit home page.
 
-account.grammarly.com##button._menuTileContainer_uyynz_1:nth-of-type(4) !Removes "Analytics" tab from Grammarly Account
-app.grammarly.com##._9ada84b6-index_layout-nav !Removes left side-bar from Grammarly
+!Remove "trending" from Reddit search:
+www.reddit.com###reddit-trending-searches-partial-container 
+
+!Removes "Recent posts" from right sidebar on the Reddit home page
+www.reddit.com##recent-posts 
+
+www.reddit.com##shreddit-subreddit-header-buttons 
+!Removes "Join" and other options on a subreddit home page.
+
+!Removes "Analytics" tab from Grammarly Account
+account.grammarly.com##button._menuTileContainer_uyynz_1:nth-of-type(4)
+
+!Removes left side-bar from Grammarly
+app.grammarly.com##._9ada84b6-index_layout-nav 
 
 chatgpt.com##.bg-token-sidebar-surface-primary.overflow-x-hidden.flex-shrink-0
 chatgpt.com##body > div:nth-of-type(3)
@@ -52,7 +65,7 @@ github.com##.border-bottom.mb-5.feed-right-sidebar
 
 google.com##.Hb-ja-Na.gb_he.gb_je
 google.com##.gb_8c
-! Removes AI labs, apps and other similar buttons from the nav-bar (Note: works on all Google sites)
+! Removes AI labs, apps and other similar buttons from the nav bar (Note: works on all Google sites)
 
 
 instagram.com##.xu96u03.xm80bdy.x10l6tqk.x13vifvy
