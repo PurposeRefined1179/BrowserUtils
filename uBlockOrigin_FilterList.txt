@@ -1,15 +1,24 @@
-! Jun 15, 2024 https://chatgpt.com (ChatGPT free version, not logged-in)
+! Jun 15, 2024
+||accounts.google.com/gsi/*$xhr,script,3p ! Removes Google login dialogs on various pages
+google.*##[id^="eob_"] ! Removes "People also search for"
+!Credits: https://www.reddit.com/r/uBlockOrigin/wiki/solutions/
+
+
+www.reddit.com###left-sidebar-container
+www.reddit.com##.ml-md.mt-sm.mb-2xs.text-neutral-content-weak.flex.items-center
+www.reddit.com###reddit-trending-searches-partial-container !Removes "trending" from Reddit search.
+www.reddit.com##recent-posts !Removes "Recent posts" from right sidebar on the Reddit home page
+www.reddit.com##shreddit-subreddit-header-buttons !Removes "Join" and other options on a subreddit home page.
+
+account.grammarly.com##button._menuTileContainer_uyynz_1:nth-of-type(4) !Removes "Analytics" tab from Grammarly Account
+app.grammarly.com##._9ada84b6-index_layout-nav !Removes left side-bar from Grammarly
+
 chatgpt.com##.bg-token-sidebar-surface-primary.overflow-x-hidden.flex-shrink-0
 chatgpt.com##body > div:nth-of-type(3)
 chatgpt.com##.z-20.right-0.left-0.bottom-full.absolute
 chatgpt.com##.z-40.top-1\/2.left-0.fixed
 chatgpt.com##.juice\:lg\:end-3.juice\:lg\:bottom-3.md\:flex.juice\:end-2.juice\:bottom-2.gap-1.hidden.z-10.end-3.bottom-3.fixed.group
 chatgpt.com##.juice\:gap-0.overflow-hidden.gap-2.items-center.flex
-
-
-! 05-Jun-2024 https://mail.google.com
-google.com##.KE6zIb.Zmxtcf
-! removes Gemini button
 
 ! 30-May-2024 https://www.youtube.com
 www.youtube.com##span.bold.yt-formatted-string.style-scope:nth-of-type(1)
@@ -43,6 +52,8 @@ github.com##.border-bottom.mb-5.feed-right-sidebar
 
 google.com##.Hb-ja-Na.gb_he.gb_je
 google.com##.gb_8c
+! Removes AI labs, apps and other similar buttons from the nav-bar (Note: works on all Google sites)
+
 
 instagram.com##.xu96u03.xm80bdy.x10l6tqk.x13vifvy
 !hides the profile cards from posts
@@ -53,11 +64,12 @@ www.instagram.com##.x1nhvcw1.x1oa3qoh.x1qjc9v5.xqjyukv.xdt5ytf.x2lah0s.x1c4vz4f.
 ! Hides "More posts from `User`" box
 ! Jun 3, 2024 https://www.google.com
 
+
+!Google search footer and other buttons
 www.google.com##.qarstb.o3j99
 www.google.com##.c93Gbe.o3j99
 www.google.com##.lJ9FBc.FPdoLc
 www.google.com##.RNmpXc
-!Google search footer and other buttons
 
 google.com##.ml-Pr-kg
 
@@ -66,14 +78,11 @@ chatgpt.com##[href="/gpts"]
 
 
 ##.gb_Uf.gb_4f.gb_K.gb_Kd
-! ! Jun 3, 2024 https://myaccount.google.com
-myaccount.google.com##.gb_8c
-myaccount.google.com##.gb_he.gb_je
-myaccount.google.com###ZCHFDb
-! Removes 1) apps button on the nav-bar; 2) help button on the nav-bar and 3) footer
 
-! www.google.com##.gb_8c
-! Removes AI labs, apps and other similar buttons from nav-bar 
+! https://myaccount.google.com
+google.com###ZCHFDb
+! Removes the footer
+
 www.youtube.com##.sbdd_a.gstl_50
 
 ! 26-May-2024 https://www.youtube.com
@@ -188,9 +197,6 @@ www.instagram.com##._ac2d
 www.instagram.com##.x2b8uid.xdt5ytf.x78zum5.x6s0dn4 > .x1l90r2v.xyamay9
 www.instagram.com##.xh8yej3.x1pi30zi.x1swvt13.x4lt0of.xat24cr.xr931m4.x1q0g3np.x78zum5.x9f619.xso031l.x1q0q8m5.x1bs97v6.x6s0dn4
 www.instagram.com##a._a6hd._ap3g._aa-z.x1a2a7pz.xggy1nq.x1hl2dhg.x16tdsg8.xkhd6sd.x18d9i69.x4uap5.xexx8yu.x1mh8g0r.xat24cr.x11i5rnm.xdj266r.xe8uvvx.xt0psk2.x1ypdohk.x9f619.xm0m39n.x1qhh985.xcfux6l.x972fbf.x17r0tee.x1sy0etr.xd10rxx.x1ejq31n.xjbqb8w.x1i10hfl
-
-! 2024-05-19 https://www.google.com
-
 
 ! 2024-05-19 https://www.instagram.com
 www.instagram.com##.x1nhvcw1.x1oa3qoh.x1qjc9v5.xqjyukv.xdt5ytf.x2lah0s.x1c4vz4f.xryxfnj.x1plvlek.x1n2onr6.xo71vjh.x5pf9jr.x13lgxp2.x168nmei.xy80clv.xso031l.xm81vs4.x178xt8z.x26u7qi.x1q0q8m5.xu3j5b3.x13fuv20.xmo9t06.x1bs97v6.xopu45v.x5ur3kl.x78zum5.xvbhtw8.x9f619
